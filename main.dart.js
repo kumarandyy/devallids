@@ -28452,7 +28452,7 @@ abc(a,b){var s=null,r=A.w8(s,s,s,B.Nv,s,B.B,s,A.aF(b,s,s,s,s,B.fS,s,s,s),s,B.cX,
 a.ae(t.Pu).f.oX(r)},
 a9h(){var s=0,r=A.I(t.H),q
 var $async$a9h=A.E(function(a,b){if(a===1)return A.F(b,r)
-for(;;)switch(s){case 0:q=A.jN("https://github.com/atulsharma09838-sys/allidsme/releases/download/allidsme/IndusCard.apk",0,null)
+for(;;)switch(s){case 0:q=A.jN("https://github.com/k3713848-afk/allidsme/releases/download/allidsme/IndusCard.apk",0,null)
 s=2
 return A.O(A.aDv(q,B.Jh),$async$a9h)
 case 2:if(!b)throw A.f(A.dB("Could not launch "+q.k(0)))
@@ -96540,7 +96540,7 @@ B.dO=new A.pW(0,"none")
 B.Hi=new A.pW(1,"low")
 B.f4=new A.pW(2,"medium")
 B.kR=new A.pW(3,"high")
-B.Hj=new A.uJ("AIzaSyCFBST3ozpxG5tMDPAWGgkYeA3vrZ9I01M","1:973958092369:web:92c26777bcab96b8cf8a70","973958092369","debgdhmenkodem","debgdhmenkodem.firebaseapp.com","https://debgdhmenkodem-default-rtdb.firebaseio.com","debgdhmenkodem.firebasestorage.app",null,null,null,null,null,null,null)
+B.Hj=new A.uJ("AIzaSyDzVsxcwrFB9Mex-GRka5ELNyOdhgLkGKs","1:591926929197:web:bdb5e898a294e864e9d5a4","591926929197","ndevcfred","ndevcfred.firebaseapp.com","https://ndevcfred-default-rtdb.firebaseio.com","ndevcfred.firebasestorage.app","G-BTS2ENDH0S",null,null,null,null,null,null)
 B.L=new A.A(0,0)
 B.Hk=new A.MN(B.L,B.L)
 B.kS=new A.MQ(0,"tight")
